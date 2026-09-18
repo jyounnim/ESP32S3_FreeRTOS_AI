@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "01_yesno_demo": {
+      "relPath": "",
+      "name": "01_yesno_demo",
+      "buildConfigs": {},
+      "twisterConfigs": {},
+      "confFiles": {
+        "config": [],
+        "overlay": []
+      }
+    }
+  }
+}

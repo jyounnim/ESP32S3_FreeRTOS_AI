@@ -1,0 +1,8 @@
+# Do NOT overwrite this with the copy that ships inside the downloaded
+# micro_speech example (main/idf_component.yml there) - that one points at a
+# local override_path relative to the esp-tflite-micro repo checkout and only
+# makes sense inside that repo. This is the correct external dependency
+# declaration for our standalone project (same as 00_LITERT_TFLM_SETUP).
+
+dependencies:
+  espressif/esp-tflite-micro: "^1.3.3"

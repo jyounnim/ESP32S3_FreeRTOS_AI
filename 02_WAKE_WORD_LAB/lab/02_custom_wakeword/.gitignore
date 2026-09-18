@@ -1,0 +1,10 @@
+.pio/
+build/
+managed_components/
+sdkconfig*
+
+# Files exported from your own Edge Impulse project - not something to
+# check into a shared repo, and different for every student/wake word.
+src/edge-impulse-sdk/
+src/tflite-model/
+src/model-parameters/

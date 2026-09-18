@@ -1,0 +1,3 @@
+numpy
+tensorflow
+tf_keras   # legacy Keras 2 compat, required by the TF_USE_LEGACY_KERAS workaround in train_autoencoder.py

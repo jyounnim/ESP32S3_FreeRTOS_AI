@@ -1,0 +1,6 @@
+# IDF Component Manager dependency declaration.
+# On first `pio run`, this component (and esp-nn, its SIMD-accelerated kernel
+# dependency) is fetched into managed_components/ automatically.
+
+dependencies:
+  espressif/esp-tflite-micro: "^1.3.3"
